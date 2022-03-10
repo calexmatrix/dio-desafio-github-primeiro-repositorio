@@ -1,0 +1,28 @@
+Função do Git
+
+Basicamente é um sistema de versionamento de codigo aberto muito utilizado para controle de historico de alterações de arquivos e projeto de desenvolvimento de software.
+
+
+
+Comandos no terminal
+
+
+Windows			Unix
+
+cd			cd
+dir			ls
+mkdir			mkdir
+del / rmdir			rm-rf
+
+
+
+
+
+		Tree
+	         /	   |       \
+	       /	   |         \
+	Readme  Rakefile  lib
+
+	blob	 blob	tree
+			simplegit.rb
+			 blob
