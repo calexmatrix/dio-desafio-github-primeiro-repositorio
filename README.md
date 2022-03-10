@@ -5,5 +5,5 @@
 
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
-<img src="C:\Users\carlos.goncalves\Documents\GitHub\dio-desafio-github-primeiro-repositorio\img\logo-dio.png" alt="logo-dio" style="zoom:180%;" />
+<img src="https://github.com/calexmatrix/dio-desafio-github-primeiro-repositorio/tree/main/img/logo-dio.png" alt="logo-dio" style="zoom:180%;" />
 
