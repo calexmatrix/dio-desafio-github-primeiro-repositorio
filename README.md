@@ -1,7 +1,13 @@
+
 # dio-desafio-github-primeiro-repositório
-**:zap:** **:zap:** Desafio de Projeto sobre/Git/Github <img src="C:\Users\carlos.goncalves\Documents\GitHub\dio-desafio-github-primeiro-repositorio\img\Cloud-data-engineer.png" alt="Cloud-data-engineer" style="zoom:5%;" />  
+
+<div align="right">
+<img src="https://img.shields.io/static/v1?label=cloud data engineer&message=DIO&color=blue&style=for-the-badge&logo=REACT"/>
+</div>
+:zap:  :zap: Desafio de Projeto sobre/Git/Github :zap: :zap: <div align="left"> <img src="https://user-images.githubusercontent.com/82120505/157789907-d4868e87-3f76-4d5e-9375-12540d09fcda.png" width="100px" /> </div>
 
 ## Links Úteis :memo: 
+
 
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
